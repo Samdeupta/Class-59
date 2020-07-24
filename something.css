@@ -1,0 +1,18 @@
+
+ h1{
+    color: red
+}
+* {
+     border: solid
+}
+
+.header{
+    background-color: rgb(247, 228, 121);
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic{
+    display: flex;
+    justify-content: space-evenly   ;
+}
